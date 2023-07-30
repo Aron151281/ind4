@@ -28,6 +28,26 @@ Este relatório tem por objetivo a **demonstração e importância da análise d
 
 ---
 
+## Dados
+Os dados utilizados na análise foram fornecidos  e incluem informações sobre as horas trabalhadas, bugs corrigidos, tarefas concluídas e suas eventuais alterções  durante uma semana específica do projeto. 
+
+---
+
+## Analíse Explorátoria
+Análises exploratórias dos dados foram feitas para se obter insights do projeto. Foram calculadas métricas como o total e a média das horas trabalhadas, bugs corrigidos e tarefas concluídas. Além disso, foi calculada a produtividade diária, que representa a relação entre as tarefas concluídas e as horas trabalhadas.
+
+---
+
+## Resultados e Insights
+As análises revelaram informações valiosas sobre o progresso do projeto. Algumas das principais conclusões incluem:
+
+- A equipe trabalhou um total de 43 horas durante a semana do projeto, com uma média diária de 6,14 horas.
+- Foram corrigidos um total de 16 bugs, com média diária de 2,29 bugs corrigidos.
+- Um total de 29 tarefas foram concluídas, com média diária de 4,14 tarefas concluídas.
+- A produtividade média diária foi de 0,66 tarefas concluídas por hora.
+
+
+
 ## Tecnologias utilizadas 💻:
 * Pandas
 * Numpy
