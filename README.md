@@ -57,4 +57,6 @@ As análises revelaram informações valiosas sobre o progresso do projeto. Algu
 ## Autor
 Aron Augusto Bernardo Silva
 
-![linkedin](https://www.linkedin.com/in/aron-bernardo-data-analytics/)
+[linkedin](https://www.linkedin.com/in/aron-bernardo-data-analytics/)
+
+E-mail: (aronbernardosilva36@gmail.com)
