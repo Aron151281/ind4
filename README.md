@@ -44,7 +44,7 @@ As análises revelaram informações valiosas sobre o progresso do projeto. Algu
 - A equipe trabalhou um total de 43 horas durante a semana do projeto, com uma média diária de 6,14 horas.
 - Foram corrigidos um total de 16 bugs, com média diária de 2,29 bugs corrigidos.
 - Um total de 29 tarefas foram concluídas, com média diária de 4,14 tarefas concluídas.
-- A produtividade média diária foi de 0,66 tarefas concluídas por hora.
+
 
 
 
