@@ -3,6 +3,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Aron151281/ind4)
 ![GitHub search hit counter](https://img.shields.io/github/search/Aron151281/ind4/ind4)
 
+![SOFTWARE](https://github.com/Aron151281/ind4/assets/132007858/5c2f5403-2fad-4858-9ed7-4efaea7a231e)
+
+
 
 
 Gerar um relatório de produtividade laboral com lapso temporal diário limitado semanalmente de Segunda a Domingo.
